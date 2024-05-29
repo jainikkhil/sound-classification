@@ -1,4 +1,4 @@
-# Audio Classification Project
+# Sound Classification Project
 
 This project focuses on preprocessing audio data and creating a machine learning model to classify different types of sounds using the UrbanSound8K dataset.
 
